@@ -1,6 +1,6 @@
 # file-scraper
 
-Downloads lecture files from CS61A course (http://cs61a.org/) with Windows Task Scheduler
+Downloads lecture files from CS61A course (http://cs61a.org/) with Windows Task Scheduler.
 
 The method to schedule a Python script depends on your operating system. The general steps for Windows operating systems are given below. 
 For more information about scheduled tasks, see the Windows help. For Unix and Linux systems, use [cron or crontab](https://kb.iu.edu/d/afiz).
