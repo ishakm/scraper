@@ -1,3 +1,3 @@
-FILE_TYPES = ['.pdf', '.doc']
-LINK_TO_SCRAPE = 'http://cs61a.org/assets/slides/'
-FILE_BASE = 'http://cs61a.org/assets/slides/'
+FILE_TYPES = ['.pdf', '.doc', '.txt']
+SCRAPE_LINK = 'http://cs61a.org/assets/slides/'
+BASE_FILE = 'http://cs61a.org/assets/slides/'
