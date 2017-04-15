@@ -1,4 +1,4 @@
-# file-scraper
+# Scraper
 
 Type: `python scraper.py` to run the python script.
 
